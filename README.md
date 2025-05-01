@@ -4,3 +4,4 @@
 <br>The argument is to advocate for the use of AWS services for non-core infrastructure, when permitted by 
 <br>respective regulatory/compliance requirements.
 <br>
+![Alt text](/images/update_26_Avril_lc_WATERMARKED_lc.jpg)
