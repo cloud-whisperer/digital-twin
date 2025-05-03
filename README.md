@@ -12,6 +12,16 @@
 <br><b>Source:</b> Digital Twin Technology: A Game-Changer for Asset Management in the Utilities Industry
 <br>https://www.quinnox.com/blog/digital-twin-technology-a-game-changer-for-asset-management-in-the-utilities-industry/
 <br><br>
+## Table of Contents
+- [Project Title and Description](#project-title-and-description)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
 <br>Tech Stack
 <br>
 - **Azure**: Virtual Machines (VMs) for **Windows Server 2022**, **pfSense**, **Ubuntu**.
