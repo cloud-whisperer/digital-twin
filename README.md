@@ -22,10 +22,9 @@
 
 ![Alt text](/images/update_26_Avril_lc_WATERMARKED_lc.jpg)
 
-<br>
 <br><b></b>Features</b>
 <br>- Hybrid cloud architecture using Azure (heavy workloads) and AWS (logging, monitoring).
 <br>- EventBridge for real-time alerts, remediation using Lambda.
 <br>- Compliant with regulations like ISO 27001, SOC 2, GDPR.
 <br>- Cost optimization by outsourcing non-critical infrastructure tasks to the cloud.
-<br>- Digital Twin model for enhanced performance monitoring in the energy sector**.
+<br>- Digital Twin model for enhanced performance monitoring in the energy sector.
