@@ -13,7 +13,7 @@
 <br>https://www.quinnox.com/blog/digital-twin-technology-a-game-changer-for-asset-management-in-the-utilities-industry/
 <br><br>
 <br>Tech Stack
-<br>## Tech Stack
+<br>
 - **Azure**: Virtual Machines (VMs) for **Windows Server 2022**, **pfSense**, **Ubuntu**.
 - **AWS**: **CloudWatch**, **Firehose**, **EventBridge**, **Lambda**, **S3**, **DataDog**, **New Relic**.
 - **MySQL**: Primary database on **Azure**, backup on **Debian**.
