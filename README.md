@@ -6,4 +6,5 @@
 <br>are effective for certain use cases, such network architectures are not feasible
 <br>for industries which require adherance to stringent workflows and documentation.
 <br>
+<br><br>
 ![Alt text](/images/update_26_Avril_lc_WATERMARKED_lc.jpg)
