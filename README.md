@@ -13,7 +13,7 @@
 <br>https://www.quinnox.com/blog/digital-twin-technology-a-game-changer-for-asset-management-in-the-utilities-industry/
 <br><br>
 ## Table of Contents
-- [Project Title and Description](Digital twin project for the energy and power industry (PoC).)
+- [Digital twin project for the energy and power industry (PoC). ](#project-title-and-description)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Installation](#installation)
