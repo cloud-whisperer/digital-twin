@@ -8,7 +8,8 @@
 <br>
 <br>Digital twins allow for predictive maintenance, provides insights into when and how assets should be
 <br>upgraded or replaced, which adheres to the Cost Optimisation Pillar of the Well-Architected Framework.
-<br>Source: Digital Twin Technology: A Game-Changer for Asset Management in the Utilities Industry
+<br>
+<br><b>Source:</b> Digital Twin Technology: A Game-Changer for Asset Management in the Utilities Industry
 <br>https://www.quinnox.com/blog/digital-twin-technology-a-game-changer-for-asset-management-in-the-utilities-industry/
 <br><br>
 ![Alt text](/images/update_26_Avril_lc_WATERMARKED_lc.jpg)
