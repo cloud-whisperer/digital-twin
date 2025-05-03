@@ -12,4 +12,11 @@
 <br><b>Source:</b> Digital Twin Technology: A Game-Changer for Asset Management in the Utilities Industry
 <br>https://www.quinnox.com/blog/digital-twin-technology-a-game-changer-for-asset-management-in-the-utilities-industry/
 <br><br>
+<br>Tech Stack
+<br>## Tech Stack
+- **Azure**: Virtual Machines (VMs) for **Windows Server 2022**, **pfSense**, **Ubuntu**.
+- **AWS**: **CloudWatch**, **Firehose**, **EventBridge**, **Lambda**, **S3**, **DataDog**, **New Relic**.
+- **MySQL**: Primary database on **Azure**, backup on **Debian**.
+- **VirtualBox**: For local hosting of **Debian** and **Ubuntu** VMs.
+
 ![Alt text](/images/update_26_Avril_lc_WATERMARKED_lc.jpg)
