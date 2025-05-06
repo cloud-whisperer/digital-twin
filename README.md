@@ -1,4 +1,6 @@
-<h1>Digital twin project for the energy and power industry (PoC). </h1>
+<p align="center">
+  <img src="digital_twin_banner _lc.jpg" alt="banner" width="100%">
+</p>
 <br> This serves as a PoC for a highly available, monolithic, hybrid data center.
 <br>
 <br>The argument is to advocate for the use of AWS services for non-core infrastructure, when permitted by 
