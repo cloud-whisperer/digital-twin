@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="digital_twin_banner _lc.jpg" alt="banner" width="100%">
+  <img src="digital_twin_I_lc.jpg" alt="banner" width="100%">
 </p>
 <br> This serves as a PoC for a highly available, monolithic, hybrid data center.
 <br>
